@@ -1,0 +1,23 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+.jumbotron-content {
+    padding:100px 20px 200px 10px;
+}
+.feature-container {
+    background-color: #183a77;
+    color: antiquewhite;
+    -webkit-box-shadow: 6px 5px 7px -4px rgba(0,0,0,0.7); 
+     box-shadow: 6px 5px 7px -4px rgba(0,0,0,0.7);
+     border-radius: 20px;
+}
+.border-right {
+    border-right: 1px;
+}
+.content-wrapper {
+    position: relative;
+    top: -110px;
+}
+.jumbotron-header{
+    font-family: 'Lobster', cursive;
+}
